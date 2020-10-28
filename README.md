@@ -1,6 +1,8 @@
 <h1 align="center">Hey howdy hey! I'm Fisher 👋</h1>
 <h5 align="center">Welcome to my profile! Feel free to look around!</h5>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fishermedders.fishermedders)
+
 <!--
 **fishermedders/fishermedders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
