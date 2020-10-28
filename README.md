@@ -1,6 +1,6 @@
 ![header](https://github.com/fishermedders/fishermedders/blob/main/header.png?raw=true)
 
-<img src="https://img.shields.io/badge/who-fisher-red"><img src="https://img.shields.io/badge/what-he%2Fhim%2Fhis-important"><img src="https://img.shields.io/badge/when-now-yellow"><img src="https://img.shields.io/badge/where-ga%2Fusa-yellowgreen"><img src="https://img.shields.io/badge/why-%C2%AF%5C__(%E3%83%84)__%2F%C2%AF-green"><img src="https://img.shields.io/badge/how-very%20carefully-brightgreen"><img src="https://img.shields.io/badge/currently-coding-9cf"><img src="https://visitor-badge.glitch.me/badge?page_id=fishermedders.fishermedders">
+<img src="https://img.shields.io/badge/who-fisher-red"> <img src="https://img.shields.io/badge/what-he%2Fhim%2Fhis-important"> <img src="https://img.shields.io/badge/when-now-yellow"> <img src="https://img.shields.io/badge/where-ga%2Fusa-yellowgreen"> <img src="https://img.shields.io/badge/why-%C2%AF%5C__(%E3%83%84)__%2F%C2%AF-green"> <img src="https://img.shields.io/badge/how-very%20carefully-brightgreen"> <img src="https://img.shields.io/badge/currently-coding-9cf"> <img src="https://visitor-badge.glitch.me/badge?page_id=fishermedders.fishermedders">
 <!--
 **fishermedders/fishermedders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
