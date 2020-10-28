@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Devblog 2](https://dev.to/supreme/devblog-2-c5b)
+- [Devblog 1](https://dev.to/supreme/devblog-1-j5e)
+- [SupremeObsidian Dev Blogs](https://dev.to/supreme/supremeobsidian-dev-blogs-2l4g)
 <!-- BLOG-POST-LIST:END -->
