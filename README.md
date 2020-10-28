@@ -1,5 +1,4 @@
-<h1 align="center">Hey howdy hey! I'm Fisher 👋</h1>
-<h5 align="center">Welcome to my profile! Feel free to look around!</h5>
+![header](https://github.com/fishermedders/fishermedders/blob/main/header.png?raw=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fishermedders.fishermedders)
 
