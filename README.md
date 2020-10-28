@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">Hi there 👋</h1>
+https://visitor-badge.glitch.me/badge?page_id=fishermedders.fishermedders
 <!--
 **fishermedders/fishermedders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Blog posts
+# 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Devblog 2](https://dev.to/supreme/devblog-2-c5b)
 - [Devblog 1](https://dev.to/supreme/devblog-1-j5e)
