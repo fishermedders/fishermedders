@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Devblog 3](https://dev.to/supreme/devblog-3-4m66)
 - [What are your favorite Developer Jokes?](https://dev.to/fishermedders/what-are-your-favorite-developer-jokes-61e)
 - [How I host Minecraft Server ResourcePacks on Github](https://dev.to/fishermedders/how-i-host-minecraft-server-resourcepacks-on-github-2ia4)
 - [Devblog 2](https://dev.to/supreme/devblog-2-c5b)
 - [Devblog 1](https://dev.to/supreme/devblog-1-j5e)
-- [SupremeObsidian Dev Blogs](https://dev.to/supreme/supremeobsidian-dev-blogs-2l4g)
 <!-- BLOG-POST-LIST:END -->
